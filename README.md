@@ -75,7 +75,7 @@ A simple and interactive web application to **view WhatsApp exported chats** in 
 
 ## 🙏 Credits
 
-This project is built on top of an existing project by PixelNaveen.
+This project is built on top of an existing project by @PixelNaveen.
 Enhancements and modifications have been made to improve functionality and user experience.
 
 ✨ Improvements Added
